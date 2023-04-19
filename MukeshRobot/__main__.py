@@ -94,11 +94,11 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="📚 ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
+        InlineKeyboardButton(text="📚 ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs 📚", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(text="🏡 ᴀʙᴏᴜᴛ 🏡 ", callback_data="mukesh_"),
-        InlineKeyboardButton(text="🍹sᴜᴩᴩᴏʀᴛ 🍹", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="🍹sᴜᴩᴩᴏʀᴛ 🍹", url=f"https://t.me/fairy_support"),
     ],
     [
         InlineKeyboardButton(text="🥀ᴅᴇᴠᴇʟᴏᴩᴇʀ🥀", url=f"tg://user?id={OWNER_ID}"),
@@ -427,10 +427,10 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="🚩sᴜᴩᴩᴏʀᴛ🚩", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="🥀sᴜᴩᴩᴏʀᴛ🥀", url=f"https://t.me/fairy_support"
                         ),
                         InlineKeyboardButton(
-                            text="💗ᴜᴩᴅᴀᴛᴇs💓", url=f"https://t.me/mukeshbotzone"
+                            text="🥀ᴜᴩᴅᴀᴛᴇs🥀", url=f"https://t.me/theupdatechannel_143"
                         ),
                     ],
                     [
@@ -438,7 +438,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                             text="🥀ᴅᴇᴠᴇʟᴏᴩᴇʀ🥀", url=f"tg://user?id={OWNER_ID}"
                         ),
                         InlineKeyboardButton(
-                            text="✨ɢɪᴛʜᴜʙ✨", url="https://github.com/noob-mukesh"
+                            text="🥀ɢɪᴛʜᴜʙ🥀", url="https://te.legra.ph/file/811a37f6b25b86bbc7c33.jpg"
                         ),
                     ],
                     [
