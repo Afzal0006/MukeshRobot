@@ -410,7 +410,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="🥀sᴏᴜʀᴄᴇ🥀",
-                            url="https://github.com/noob-mukesh/MukeshRobot",
+                            url="https://github.com/afzal0006/mukeshRobot",
                         ),
                     ],
                     [
@@ -492,7 +492,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
     elif query.data == "Music_admin":
         query.message.edit_text(text=f"*» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ «*"
             f"""
-ᴊᴜsᴛ ᴀᴅᴅ *ᴄ* ɪɴ ᴛʜᴇ sᴛᴀʀᴛɪɴɢ ᴏғ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ᴛᴏ ᴜsᴇ ᴛʜᴇᴍ ғᴏʀ ᴄʜᴀɴɴᴇʟ.
+ ᴀᴅᴅ *ᴄ* ɪɴ ᴛʜᴇ sᴛᴀʀᴛɪɴɢ ᴏғ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ᴛᴏ ᴜsᴇ ᴛʜᴇᴍ ғᴏʀ ᴄʜᴀɴɴᴇʟ.
 
 /pause : ᴩᴀᴜsᴇ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ.
 
